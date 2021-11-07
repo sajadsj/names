@@ -1,3 +1,9 @@
+/*
+Title: Names
+Project aim: Learning loops using C
+by: SajadSojoudi@gmail.com
+*/
+
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <string.h>
